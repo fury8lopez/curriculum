@@ -18,7 +18,7 @@ El currículum está diseñado para ser atractivo, accesible y completamente res
 - **Personalización Fácil**: Estructura clara del código que permite modificaciones rápidas.
 
 ## 🖼️ **Vista Previa**
-Puedes ver el currículum en acción [aquí](https://tu-enlace-a-la-demo.com).
+Puedes ver el currículum en acción [aquí](https://cvdeveloperhtml.netlify.app/).
 
 ## 📂 **Estructura del Proyecto**
 - `index.html`: Archivo principal que contiene la estructura del currículum.
