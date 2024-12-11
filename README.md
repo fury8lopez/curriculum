@@ -1,6 +1,8 @@
 # 🌐 Currículum Digital
-
 Este repositorio contiene mi currículum digital, diseñado y desarrollado utilizando **HTML** y **CSS**. Es una representación visual y profesional de mi experiencia, habilidades y proyectos.
+
+## 🖼️ **Ver Demo**
+Puedes ver el currículum en vivo  [aquí](https://cvdeveloperhtml.netlify.app/).
 
 ## 📋 **Descripción**
 El currículum está diseñado para ser atractivo, accesible y completamente responsive, adaptándose a diferentes dispositivos. Es un proyecto pensado para demostrar mis habilidades en maquetación y diseño web.
@@ -17,8 +19,6 @@ El currículum está diseñado para ser atractivo, accesible y completamente res
 - **Organización Semántica**: Uso adecuado de etiquetas HTML para mejorar la accesibilidad y el SEO.
 - **Personalización Fácil**: Estructura clara del código que permite modificaciones rápidas.
 
-## 🖼️ **Vista Previa**
-Puedes ver el currículum en acción [aquí](https://cvdeveloperhtml.netlify.app/).
 
 ## 📂 **Estructura del Proyecto**
 - `index.html`: Archivo principal que contiene la estructura del currículum.
